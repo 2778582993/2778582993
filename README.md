@@ -14,15 +14,14 @@
 </div>
 
 <p align="center">
-<strong>PROJECT LINKS</strong>
-&nbsp;&nbsp;
-<a href="https://github.com/2778582993/SpicyLove99"><strong>SpicyLove99</strong></a> <code>TypeScript</code> ★2
+<strong>PROJECT LINKS</strong><br />
+<a href="https://github.com/2778582993/SpicyLove99"><strong>SpicyLove99</strong></a> <code>TypeScript</code>&nbsp;★2
 &nbsp;·&nbsp;
-<a href="https://github.com/2778582993/chat_ai"><strong>chat_ai</strong></a> <code>JavaScript</code> ★1
+<a href="https://github.com/2778582993/chat_ai"><strong>chat_ai</strong></a> <code>JavaScript</code>&nbsp;★1
+<br />
+<a href="https://github.com/2778582993/yuz"><strong>yuz</strong></a> <code>TypeScript</code>&nbsp;★1
 &nbsp;·&nbsp;
-<a href="https://github.com/2778582993/yuz"><strong>yuz</strong></a> <code>TypeScript</code> ★1
-&nbsp;·&nbsp;
-<a href="https://github.com/2778582993/dsh-purge"><strong>dsh-purge</strong></a> <code>JavaScript</code> fork
+<a href="https://github.com/2778582993/dsh-purge"><strong>dsh-purge</strong></a> <code>JavaScript</code>&nbsp;fork
 <br />
 <a href="https://github.com/2778582993?tab=repositories">all repositories →</a>
 </p>
