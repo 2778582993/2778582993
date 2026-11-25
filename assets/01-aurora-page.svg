@@ -3,9 +3,9 @@
 <desc id="dsc">A single-page animated terminal profile: pixel YUZ, shell transcript, live stats, featured projects, and a contribution signal.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#05070c"/>
-    <stop offset=".38" stop-color="#071018"/>
-    <stop offset="1" stop-color="#04060a"/>
+    <stop offset="0" stop-color="#0d1117"/>
+    <stop offset=".38" stop-color="#0a1017"/>
+    <stop offset="1" stop-color="#0d1117"/>
   </linearGradient>
   <radialGradient id="agreen" cx=".5" cy=".5" r=".5">
     <stop offset="0" stop-color="#7ee787" stop-opacity=".55"/>
@@ -34,11 +34,11 @@
     <stop offset="1" stop-color="#7ee787" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="veil" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#05070c" stop-opacity="0"/>
-    <stop offset=".22" stop-color="#05070c" stop-opacity=".10"/>
-    <stop offset=".40" stop-color="#05070c" stop-opacity=".52"/>
-    <stop offset=".66" stop-color="#05070c" stop-opacity=".68"/>
-    <stop offset="1" stop-color="#05070c" stop-opacity=".86"/>
+    <stop offset="0" stop-color="#0d1117" stop-opacity="0"/>
+    <stop offset=".22" stop-color="#0d1117" stop-opacity=".10"/>
+    <stop offset=".40" stop-color="#0d1117" stop-opacity=".52"/>
+    <stop offset=".66" stop-color="#0d1117" stop-opacity=".68"/>
+    <stop offset="1" stop-color="#0d1117" stop-opacity=".86"/>
   </linearGradient>
   <linearGradient id="gridFade" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#fff" stop-opacity=".55"/>
@@ -49,7 +49,7 @@
     <path d="M36 0H0V36" fill="none" stroke="#2f81f7" stroke-width=".55" opacity=".14"/>
   </pattern>
   <mask id="gridMask"><rect x="0" y="44" width="900" height="720" fill="url(#gridFade)"/></mask>
-  <clipPath id="page"><rect x="0" y="0" width="900" height="1200" rx="14"/></clipPath>
+  <clipPath id="page"><rect x="0" y="0" width="900" height="1200"/></clipPath>
   <filter id="blur40" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="34"/></filter>
   <filter id="blur18" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="12"/></filter>
   <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
@@ -92,7 +92,7 @@
   }
 </style>
 <g clip-path="url(#page)">
-  <rect width="900" height="1200" fill="#05070c"/>
+  <rect width="900" height="1200" fill="#0d1117"/>
   <rect width="900" height="1200" fill="url(#bg)"/>
 
   <g class="aurora">
@@ -225,8 +225,5 @@
 
   <!-- scan -->
   <rect class="scanbar" x="0" y="-240" width="900" height="240" fill="url(#scan)" opacity=".45"/>
-
-  <!-- one outer frame: the whole page is a single surface -->
-  <rect x="0.5" y="0.5" width="899" height="1199" rx="14" fill="none" stroke="#243244" stroke-width="1"/>
 </g>
 </svg>
