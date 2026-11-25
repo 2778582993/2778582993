@@ -31,7 +31,6 @@
 <sub>
 FEATURED &nbsp;·&nbsp;
 <a href="https://github.com/2778582993/SpicyLove99">SpicyLove99</a> &nbsp;·&nbsp;
-<a href="https://github.com/2778582993/battle-radar">battle-radar</a> &nbsp;·&nbsp;
 <a href="https://github.com/2778582993/chat_ai">chat_ai</a>
 </sub>
 </div>
